@@ -44,7 +44,7 @@ Map the following fields over in Heroku Connect, or just import the `ggn-hcdemo_
  * description
  * external_id__c
  * fax
- *lastmodifieddate
+ * lastmodifieddate
  * name
  * phone
  * recordtypeid
